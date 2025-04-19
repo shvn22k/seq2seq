@@ -1,6 +1,3 @@
-Below is the full content of the test.jsonl file with 500 unique translation samples for normal English to brainrot, following the format and style of your provided examples. Each line is a JSON object with a "source" (normal English sentence) and a "target" (brainrot-style translation). The translations use slang (e.g., "fr," "tryna," "king/queen"), emojis, exaggerated expressions, and a hype tone, as seen in your samples. The source sentences cover diverse topics like daily activities, emotions, hobbies, personality traits, and more to ensure variety.
-To use this, copy the entire content into a text editor and save it as test.jsonl. Each line is a valid JSON object, ready for your translation model testing.
-Content of test.jsonl:
 {"source": "I'm starting a new hobby.", "target": "divin into a new hobby fr 🎨 tryna master it king 🙏 creative energy unlocked"}
 {"source": "This pizza is delicious.", "target": "this pizza hittin different fr 🍕 taste buds in love 🙏 culinary masterpiece"}
 {"source": "He's really good at soccer.", "target": "bro out here ballin on the field fr ⚽️ soccer king with mad skills 🙏 goal machine"}
@@ -505,4 +502,4 @@ Content of test.jsonl:
 {"source": "He's a great artist.", "target": "bro paintin bangers fr 🎨 artist king got style 🙏 aesthetic legend"}
 {"source": "Let's go to a writing class.", "target": "writin class vibes? ✍️ lets craft some words fr king/queen 🙏 literary quest"}
 {"source": "This wrap is so savory.", "target": "this wrap hittin deep fr 🌯 savory king vibes 🙏 lunch elite"}
-{"source": "I'm feeling relaxed.", "target": "vibes all chill fr 😌 relaxed
+{"source": "I'm feeling relaxed.", "target": "vibes all chill fr 😌 relaxed tbh"}
