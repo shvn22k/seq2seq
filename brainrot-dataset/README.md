@@ -53,7 +53,7 @@ You can load this dataset using the Hugging Face `datasets` library:
 ```python
 from datasets import load_dataset
 
-dataset = load_dataset("your-username/brainrot-dataset")
+dataset = load_dataset("shvn22k/brainrot-dataset")
 
 # Access specific splits
 train_data = dataset["train"]
