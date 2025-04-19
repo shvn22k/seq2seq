@@ -1,0 +1,31 @@
+{
+  "dataset_info": {
+    "name": "brainrot-dataset",
+    "version": "1.0.0",
+    "description": "A dataset consisting of paired examples for translating formal/standard English to 'brainrot' internet speak. Brainrot style features casual language, emojis, lowercase text, internet slang like 'fr' (for real), 'king/queen' references, and exaggerated expressions.",
+    "citation": "",
+    "homepage": "",
+    "license": "CC BY-SA 4.0",
+    "features": {
+      "source": {
+        "dtype": "string",
+        "description": "The original standard/formal English text"
+      },
+      "target": {
+        "dtype": "string",
+        "description": "The transformed text in 'brainrot' internet language style"
+      }
+    },
+    "splits": {
+      "train": {
+        "num_examples": 5664
+      },
+      "validation": {
+        "num_examples": 503
+      },
+      "test": {
+        "num_examples": 508
+      }
+    }
+  }
+}
