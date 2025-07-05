@@ -42,7 +42,6 @@ def fix_jsonl_with_emojis(input_file_path, output_file_path):
     print(f"Processed {len(fixed_data)} valid JSON objects")
 
 if __name__ == "__main__":
-    # Replace these with your actual file paths
     input_file = r"brainrot-dataset\data\train.jsonl"
     output_file = r"brainrot-dataset\data\train_cleaned.jsonl"
     
